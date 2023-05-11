@@ -70,7 +70,7 @@ function drawCatFace() {
   let mX = mouseX - width/2
   let mY = mouseY - height/2
   
-  scale(width/500)
+  scale(width/200)
   
   //head
   stroke(0);
